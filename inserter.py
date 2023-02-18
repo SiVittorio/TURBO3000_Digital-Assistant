@@ -11,7 +11,7 @@ def insertInto(idUser, userName, request):
     selectAll()
 
 conn = psycopg2.connect(dbname='grants.myrosmol', user='postgres', 
-                        password='1111', host='localhost')
+                        password='1234', host='localhost')
 with conn.cursor() as cursor:
     conn.autocommit = True
     insertInto(input(), input(), input())
