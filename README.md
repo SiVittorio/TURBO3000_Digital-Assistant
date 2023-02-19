@@ -1,8 +1,8 @@
 # TURBO3000_Digital-Assistant
 
 ## Web Assistent guide
-1. Установить расширение GreaseMonkey (TamperMonkey) в браузере
-2. Авторизоваться на сайте grants.myrosmol.ru
+1. Установить расширение GreaseMonkey (TamperMonkey) в браузере ```https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related?hl=ru```
+2. Авторизоваться на сайте ```grants.myrosmol.ru```
 3. Запустись скрипт xenofan.user.js через расширение GreaseMonkey
 4. Наслаждаться умным помощником по заполнению заявки
 
