@@ -6,7 +6,7 @@
 3. Запустись скрипт xenofan.user.js через расширение GreaseMonkey
 4. Наслаждаться умным помощником по заполнению заявки
 
-## Telegram bot
+## Telegram bot guide
 Библиотеки:
 ```
 pip install -U --pre aiogram
