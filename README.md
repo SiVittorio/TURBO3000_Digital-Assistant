@@ -1,7 +1,21 @@
 # TURBO3000_Digital-Assistant
 
-## Inserter.py гайд
+## Web Assistent guide
+1. Установить расширение GreaseMonkey (TamperMonkey) в браузере
+2. Авторизоваться на сайте grants.myrosmol.ru
+3. Запустись скрипт xenofan.user.js через расширение GreaseMonkey
+4. Наслаждаться умным помощником по заполнению заявки
 
+## Telegram bot
+Библиотеки:
+```
+pip install -U --pre aiogram
+```
+1. Запустить скрипт
+2. Перейти на сайт ```https://t.me/Xenophanes_talks_bot```
+3. Написать ```\start``` либо нажать на соответствующую кнопку
+
+### Inserter.py гайд
 Библиотеки:
 ```
 pip install psycopg2
