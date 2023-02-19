@@ -15,7 +15,7 @@ pip install -U --pre aiogram
 2. Перейти на сайт ```https://t.me/Xenophanes_talks_bot```
 3. Написать ```\start``` либо нажать на соответствующую кнопку
 
-### Inserter.py гайд
+### Inserter.py guide
 Библиотеки:
 ```
 pip install psycopg2
